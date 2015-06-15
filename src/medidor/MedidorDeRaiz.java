@@ -18,6 +18,9 @@ import javax.swing.JTextArea;
 
 /*
  PROXIMO
+Zoom na figura
+Translate to two more languages: english and spanish
+
  Embelezar!!!!
  */
 /**
